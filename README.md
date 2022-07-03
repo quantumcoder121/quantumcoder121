@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Deep Learning
 - 📫 How to reach me: [my email ID](adityakudre121gmail.com)
+
+###My Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quantumcoder121)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
