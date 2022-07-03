@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for an Internship opportunity
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Deep Learning
-- 📫 How to reach me: [my email ID](adityakudre121gmail.com)
+- 📫 How to reach me: [my email ID](mailto:adityakudre121gmail.com)
 
 ### My Stats
 
