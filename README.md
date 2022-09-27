@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Machine Learning and ROS
 - 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking for an Internship opportunity
+- 👯 I’m looking for an Internship opportunity preferably in 2022 Winters (November/December)
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Deep Learning
 - 📫 How to reach me: [my email ID](mailto:adityakudre121gmail.com)
