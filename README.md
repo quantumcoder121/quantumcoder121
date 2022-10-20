@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Machine Learning and ROS
+- 🔭 I’m currently working on Machine Learning and C++
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking for an Internship opportunity preferably in 2022 Winters (November/December)
 - 🤔 I’m looking for open source contributors preferably good at c++ (check out [this repository](https://github.com/quantumcoder121/cpp_utilities))
